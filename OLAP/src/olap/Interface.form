@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Interface"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jTabbedPane1" alignment="0" pref="1344" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jTabbedPane1" alignment="0" pref="905" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+      <Properties>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1707, 823]"/>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="     Companhias a&#xe9;reas     ">
+                <Property name="tabTitle" type="java.lang.String" value="     Companhias a&#xe9;reas     "/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jSeparator1" max="32767" attributes="0"/>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                                              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="jComboBox1" min="-2" pref="100" max="-2" attributes="0"/>
+                                                  <Component id="jLabel25" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                                                      <Component id="jComboBox2" min="-2" pref="100" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                                                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Component id="jLabel26" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="jComboBox3" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                                                  <Component id="jLabel27" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="jComboBox4" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                                                  <Component id="jLabel28" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                                              <Component id="jButton1" min="-2" pref="100" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                      <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="1" attributes="0">
+                                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                                      <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" attributes="0">
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Group type="103" groupAlignment="1" attributes="0">
+                                                                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                                                          <Component id="jRadioButton12" min="-2" max="-2" attributes="0"/>
+                                                                          <Component id="jRadioButton6" min="-2" max="-2" attributes="0"/>
+                                                                          <Component id="jRadioButton5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                          <Component id="jRadioButton13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                      </Group>
+                                                                      <Component id="jButton7" alignment="1" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                                  <Component id="jRadioButton4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="jRadioButton3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="jComboBox9" alignment="0" min="-2" pref="200" max="-2" attributes="0"/>
+                                                                  <Component id="jLabel30" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jRadioButton1" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="jRadioButton2" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                      </Group>
+                                                      <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                                              <Component id="jComboBox12" min="-2" pref="200" max="-2" attributes="0"/>
+                                              <EmptySpace max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="294" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel31" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jCheckBox1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                                  <Component id="jScrollPane1" min="-2" pref="1260" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel26" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel27" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel28" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel25" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jComboBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jComboBox4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jComboBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jComboBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="15" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel31" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jCheckBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="271" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jSeparator1" min="-2" pref="10" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jComboBox9" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="jLabel30" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jComboBox12" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                              <Component id="jRadioButton4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton6" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton12" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton13" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                              <Component id="jButton7" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="7" rowCount="15">
+                        <Column editable="false" title="Nome companhia" type="java.lang.Object"/>
+                        <Column editable="false" title="N&#xfa;mero de voos" type="java.lang.Object"/>
+                        <Column editable="false" title="% Voos cancelados" type="java.lang.Object"/>
+                        <Column editable="false" title="% Voos desviados" type="java.lang.Object"/>
+                        <Column editable="false" title="% Voos atrasadosP (Tm&#xe9;dio)" type="java.lang.Object"/>
+                        <Column editable="false" title="% Voos atrasadosC (Tm&#xe9;dio)" type="java.lang.Object"/>
+                        <Column editable="false" title="Velocidade m&#xe9;dia de voo" type="java.lang.Object"/>
+                      </Table>
+                    </Property>
+                    <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                      <TableColumnModel selectionModel="0">
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                      </TableColumnModel>
+                    </Property>
+                    <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                      <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Selecione o per&#xed;odo temporal (2015)"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Informa&#xe7;&#xe3;o de voos de cada companhia a&#xe9;rea"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="   Ok   "/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Total de companhias a&#xe9;reas: 14"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="In&#xed;cio"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Fim"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JSeparator" name="jSeparator1">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Informa&#xe7;&#xe3;o de voos da companhia a&#xe9;rea"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Selecionar per&#xed;odo"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Selecionar op&#xe7;&#xe3;o"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Op&#xe7;&#xe3;o"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Per&#xed;odo"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox1">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="31">
+                    <StringItem index="0" value="01"/>
+                    <StringItem index="1" value="02"/>
+                    <StringItem index="2" value="03"/>
+                    <StringItem index="3" value="04"/>
+                    <StringItem index="4" value="05"/>
+                    <StringItem index="5" value="06"/>
+                    <StringItem index="6" value="07"/>
+                    <StringItem index="7" value="08"/>
+                    <StringItem index="8" value="09"/>
+                    <StringItem index="9" value="10"/>
+                    <StringItem index="10" value="11"/>
+                    <StringItem index="11" value="12"/>
+                    <StringItem index="12" value="13"/>
+                    <StringItem index="13" value="14"/>
+                    <StringItem index="14" value="15"/>
+                    <StringItem index="15" value="16"/>
+                    <StringItem index="16" value="17"/>
+                    <StringItem index="17" value="18"/>
+                    <StringItem index="18" value="19"/>
+                    <StringItem index="19" value="20"/>
+                    <StringItem index="20" value="21"/>
+                    <StringItem index="21" value="22"/>
+                    <StringItem index="22" value="23"/>
+                    <StringItem index="23" value="24"/>
+                    <StringItem index="24" value="25"/>
+                    <StringItem index="25" value="26"/>
+                    <StringItem index="26" value="27"/>
+                    <StringItem index="27" value="28"/>
+                    <StringItem index="28" value="29"/>
+                    <StringItem index="29" value="30"/>
+                    <StringItem index="30" value="31"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox2">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="12">
+                    <StringItem index="0" value="01"/>
+                    <StringItem index="1" value="02"/>
+                    <StringItem index="2" value="03"/>
+                    <StringItem index="3" value="04"/>
+                    <StringItem index="4" value="05"/>
+                    <StringItem index="5" value="06"/>
+                    <StringItem index="6" value="07"/>
+                    <StringItem index="7" value="08"/>
+                    <StringItem index="8" value="09"/>
+                    <StringItem index="9" value="10"/>
+                    <StringItem index="10" value="11"/>
+                    <StringItem index="11" value="12"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox3">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="31">
+                    <StringItem index="0" value="01"/>
+                    <StringItem index="1" value="02"/>
+                    <StringItem index="2" value="03"/>
+                    <StringItem index="3" value="04"/>
+                    <StringItem index="4" value="05"/>
+                    <StringItem index="5" value="06"/>
+                    <StringItem index="6" value="07"/>
+                    <StringItem index="7" value="08"/>
+                    <StringItem index="8" value="09"/>
+                    <StringItem index="9" value="10"/>
+                    <StringItem index="10" value="11"/>
+                    <StringItem index="11" value="12"/>
+                    <StringItem index="12" value="13"/>
+                    <StringItem index="13" value="14"/>
+                    <StringItem index="14" value="15"/>
+                    <StringItem index="15" value="16"/>
+                    <StringItem index="16" value="17"/>
+                    <StringItem index="17" value="18"/>
+                    <StringItem index="18" value="19"/>
+                    <StringItem index="19" value="20"/>
+                    <StringItem index="20" value="21"/>
+                    <StringItem index="21" value="22"/>
+                    <StringItem index="22" value="23"/>
+                    <StringItem index="23" value="24"/>
+                    <StringItem index="24" value="25"/>
+                    <StringItem index="25" value="26"/>
+                    <StringItem index="26" value="27"/>
+                    <StringItem index="27" value="28"/>
+                    <StringItem index="28" value="29"/>
+                    <StringItem index="29" value="30"/>
+                    <StringItem index="30" value="31"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox4">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="12">
+                    <StringItem index="0" value="01"/>
+                    <StringItem index="1" value="02"/>
+                    <StringItem index="2" value="03"/>
+                    <StringItem index="3" value="04"/>
+                    <StringItem index="4" value="05"/>
+                    <StringItem index="5" value="06"/>
+                    <StringItem index="6" value="07"/>
+                    <StringItem index="7" value="08"/>
+                    <StringItem index="8" value="09"/>
+                    <StringItem index="9" value="10"/>
+                    <StringItem index="10" value="11"/>
+                    <StringItem index="11" value="12"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox9">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="15">
+                    <StringItem index="0" value="Selecionar companhia a&#xe9;rea"/>
+                    <StringItem index="1" value="Alaska Airlines Inc."/>
+                    <StringItem index="2" value="American Airlines Inc."/>
+                    <StringItem index="3" value="American Eagle Airlines Inc."/>
+                    <StringItem index="4" value="Atlantic Southeast Airlines"/>
+                    <StringItem index="5" value="Delta Airlines Inc."/>
+                    <StringItem index="6" value="Frontier Airlines Inc."/>
+                    <StringItem index="7" value="Hawaiian Airlines Inc."/>
+                    <StringItem index="8" value="JetBlue Airways"/>
+                    <StringItem index="9" value="Skywest Airlines Inc."/>
+                    <StringItem index="10" value="Southwest Airlines Co."/>
+                    <StringItem index="11" value="Spirit Airlines"/>
+                    <StringItem index="12" value="United Airlines Inc."/>
+                    <StringItem index="13" value="US Airways Inc."/>
+                    <StringItem index="14" value="Virgin America"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton7">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="   Mostrar   "/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton7ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton1">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="M&#xea;s"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Trimestre"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton2ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton3">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="N&#xfa;mero de voos"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton3ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton4">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="N&#xfa;mero de voos cancelados"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton4ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton5">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="N&#xfa;mero de voos desviados"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton5ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton6">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Tempo m&#xe9;dio de atraso &#xe0; partida"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton6ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton12">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Tempo m&#xe9;dio de atraso &#xe0; chegada"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton12ActionPerformed"/>
+              </Events>
+            </Component>
+            <Container class="javax.swing.JPanel" name="jPanel3">
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <EmptySpace min="0" pref="925" max="32767" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <EmptySpace min="0" pref="380" max="32767" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel25">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Dia"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel26">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="M&#xea;s"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel27">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Dia"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel28">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="M&#xea;s"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton13">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Lucro l&#xed;quido ($)"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton13ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox12">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="15">
+                    <StringItem index="0" value="Selecionar companhia a&#xe9;rea"/>
+                    <StringItem index="1" value="Alaska Airlines Inc."/>
+                    <StringItem index="2" value="American Airlines Inc."/>
+                    <StringItem index="3" value="American Eagle Airlines Inc."/>
+                    <StringItem index="4" value="Atlantic Southeast Airlines"/>
+                    <StringItem index="5" value="Delta Airlines Inc."/>
+                    <StringItem index="6" value="Frontier Airlines Inc."/>
+                    <StringItem index="7" value="Hawaiian Airlines Inc."/>
+                    <StringItem index="8" value="JetBlue Airways"/>
+                    <StringItem index="9" value="Skywest Airlines Inc."/>
+                    <StringItem index="10" value="Southwest Airlines Co."/>
+                    <StringItem index="11" value="Spirit Airlines"/>
+                    <StringItem index="12" value="United Airlines Inc."/>
+                    <StringItem index="13" value="US Airways Inc."/>
+                    <StringItem index="14" value="Virgin America"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel30">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Comparar com a  companhia a&#xe9;rea"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel31">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Cabe&#xe7;alho"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="jCheckBox1">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="Mostrar gr&#xe1;fico"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jCheckBox1ActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="     Aeroportos     ">
+                <Property name="tabTitle" type="java.lang.String" value="     Aeroportos     "/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jSeparator2" max="32767" attributes="0"/>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                      <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="jRadioButton10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jRadioButton11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jRadioButton9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jComboBox10" min="-2" pref="200" max="-2" attributes="0"/>
+                                                      <Component id="jLabel18" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="jRadioButton8" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jRadioButton7" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                              <Component id="jButton8" alignment="1" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace pref="122" max="32767" attributes="0"/>
+                                              <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                              <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jComboBox5" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <Component id="jLabel21" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jComboBox6" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+                                      <Component id="jLabel15" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jLabel22" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel23" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jComboBox7" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel24" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jComboBox8" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                                      <Component id="jButton2" min="-2" pref="100" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel32" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jCheckBox2" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Component id="jButton3" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton4" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                          <Component id="jButton5" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton6" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="jScrollPane2" min="-2" pref="1260" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel13" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel21" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel22" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel23" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel24" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="jComboBox5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jLabel14" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jLabel15" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jCheckBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel32" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="271" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton4" alignment="3" max="32767" attributes="0"/>
+                          <Component id="jButton6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jSeparator2" min="-2" pref="10" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace pref="13" max="32767" attributes="0"/>
+                              <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel16" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel19" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jComboBox10" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                              <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton7" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton8" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                              <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton9" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton10" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jRadioButton11" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jButton8" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Selecione o per&#xed;odo temporal (2015)"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Informa&#xe7;&#xe3;o de voos de cada aeroporto"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel13">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Total de aeroportos: 322"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel14">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="In&#xed;cio"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel15">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Fim"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable2">
+                  <Properties>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="7" rowCount="15">
+                        <Column editable="false" title="" type="java.lang.Object"/>
+                        <Column editable="false" title="Nome aeroporto" type="java.lang.Object"/>
+                        <Column editable="false" title="Movimento" type="java.lang.Object"/>
+                        <Column editable="false" title="% Voos cancelados" type="java.lang.Object"/>
+                        <Column editable="false" title="% Voos desviados" type="java.lang.Object"/>
+                        <Column editable="false" title="Taxi out m&#xe9;dio" type="java.lang.Object"/>
+                        <Column editable="false" title="Taxi in m&#xe9;dio" type="java.lang.Object"/>
+                      </Table>
+                    </Property>
+                    <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                      <TableColumnModel selectionModel="0">
+                        <Column maxWidth="40" minWidth="-1" prefWidth="40" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="320" minWidth="-1" prefWidth="320" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="180" minWidth="-1" prefWidth="180" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                      </TableColumnModel>
+                    </Property>
+                    <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                      <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JSeparator" name="jSeparator2">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel16">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Informa&#xe7;&#xe3;o de voos do aeroporto"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Selecionar per&#xed;odo"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel18">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Selecionar op&#xe7;&#xe3;o"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel19">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Op&#xe7;&#xe3;o"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel20">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Per&#xed;odo"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox5">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="31">
+                    <StringItem index="0" value="01"/>
+                    <StringItem index="1" value="02"/>
+                    <StringItem index="2" value="03"/>
+                    <StringItem index="3" value="04"/>
+                    <StringItem index="4" value="05"/>
+                    <StringItem index="5" value="06"/>
+                    <StringItem index="6" value="07"/>
+                    <StringItem index="7" value="08"/>
+                    <StringItem index="8" value="09"/>
+                    <StringItem index="9" value="10"/>
+                    <StringItem index="10" value="11"/>
+                    <StringItem index="11" value="12"/>
+                    <StringItem index="12" value="13"/>
+                    <StringItem index="13" value="14"/>
+                    <StringItem index="14" value="15"/>
+                    <StringItem index="15" value="16"/>
+                    <StringItem index="16" value="17"/>
+                    <StringItem index="17" value="18"/>
+                    <StringItem index="18" value="19"/>
+                    <StringItem index="19" value="20"/>
+                    <StringItem index="20" value="21"/>
+                    <StringItem index="21" value="22"/>
+                    <StringItem index="22" value="23"/>
+                    <StringItem index="23" value="24"/>
+                    <StringItem index="24" value="25"/>
+                    <StringItem index="25" value="26"/>
+                    <StringItem index="26" value="27"/>
+                    <StringItem index="27" value="28"/>
+                    <StringItem index="28" value="29"/>
+                    <StringItem index="29" value="30"/>
+                    <StringItem index="30" value="31"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox6">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="12">
+                    <StringItem index="0" value="01"/>
+                    <StringItem index="1" value="02"/>
+                    <StringItem index="2" value="03"/>
+                    <StringItem index="3" value="04"/>
+                    <StringItem index="4" value="05"/>
+                    <StringItem index="5" value="06"/>
+                    <StringItem index="6" value="07"/>
+                    <StringItem index="7" value="08"/>
+                    <StringItem index="8" value="09"/>
+                    <StringItem index="9" value="10"/>
+                    <StringItem index="10" value="11"/>
+                    <StringItem index="11" value="12"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox7">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="31">
+                    <StringItem index="0" value="01"/>
+                    <StringItem index="1" value="02"/>
+                    <StringItem index="2" value="03"/>
+                    <StringItem index="3" value="04"/>
+                    <StringItem index="4" value="05"/>
+                    <StringItem index="5" value="06"/>
+                    <StringItem index="6" value="07"/>
+                    <StringItem index="7" value="08"/>
+                    <StringItem index="8" value="09"/>
+                    <StringItem index="9" value="10"/>
+                    <StringItem index="10" value="11"/>
+                    <StringItem index="11" value="12"/>
+                    <StringItem index="12" value="13"/>
+                    <StringItem index="13" value="14"/>
+                    <StringItem index="14" value="15"/>
+                    <StringItem index="15" value="16"/>
+                    <StringItem index="16" value="17"/>
+                    <StringItem index="17" value="18"/>
+                    <StringItem index="18" value="19"/>
+                    <StringItem index="19" value="20"/>
+                    <StringItem index="20" value="21"/>
+                    <StringItem index="21" value="22"/>
+                    <StringItem index="22" value="23"/>
+                    <StringItem index="23" value="24"/>
+                    <StringItem index="24" value="25"/>
+                    <StringItem index="25" value="26"/>
+                    <StringItem index="26" value="27"/>
+                    <StringItem index="27" value="28"/>
+                    <StringItem index="28" value="29"/>
+                    <StringItem index="29" value="30"/>
+                    <StringItem index="30" value="31"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox8">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="12">
+                    <StringItem index="0" value="01"/>
+                    <StringItem index="1" value="02"/>
+                    <StringItem index="2" value="03"/>
+                    <StringItem index="3" value="04"/>
+                    <StringItem index="4" value="05"/>
+                    <StringItem index="5" value="06"/>
+                    <StringItem index="6" value="07"/>
+                    <StringItem index="7" value="08"/>
+                    <StringItem index="8" value="09"/>
+                    <StringItem index="9" value="10"/>
+                    <StringItem index="10" value="11"/>
+                    <StringItem index="11" value="12"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="   Ok   "/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&lt;&lt;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton4">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&lt;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton5">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&gt;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton6">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&gt;&gt;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton6ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="jComboBox10">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="323">
+                    <StringItem index="0" value="Selecionar aeroporto"/>
+                    <StringItem index="1" value="Aberdeen Regional Airport"/>
+                    <StringItem index="2" value="Abilene Regional Airport"/>
+                    <StringItem index="3" value="Abraham Lincoln Capital Airport"/>
+                    <StringItem index="4" value="Adak Airport"/>
+                    <StringItem index="5" value="Akron-Canton Regional Airport"/>
+                    <StringItem index="6" value="Albany International Airport"/>
+                    <StringItem index="7" value="Albert J. Ellis Airport"/>
+                    <StringItem index="8" value="Albuquerque International Sunport"/>
+                    <StringItem index="9" value="Alexandria International Airport"/>
+                    <StringItem index="10" value="Alpena County Regional Airport"/>
+                    <StringItem index="11" value="Appleton International Airport"/>
+                    <StringItem index="12" value="Arcata Airport"/>
+                    <StringItem index="13" value="Arnold Palmer Regional Airport"/>
+                    <StringItem index="14" value="Asheville Regional Airport"/>
+                    <StringItem index="15" value="Aspen-Pitkin County Airport"/>
+                    <StringItem index="16" value="Atlantic City International Airport"/>
+                    <StringItem index="17" value="Augusta Regional Airport&#xc2;&#xa0;(Bush Field)"/>
+                    <StringItem index="18" value="Austin-Bergstrom International Airport"/>
+                    <StringItem index="19" value="Baltimore-Washington International Airport"/>
+                    <StringItem index="20" value="Bangor International Airport"/>
+                    <StringItem index="21" value="Barkley Regional Airport"/>
+                    <StringItem index="22" value="Barnstable Municipal Airport"/>
+                    <StringItem index="23" value="Baton Rouge Metropolitan Airport"/>
+                    <StringItem index="24" value="Bellingham International Airport"/>
+                    <StringItem index="25" value="Bemidji Regional Airport"/>
+                    <StringItem index="26" value="Bert Mooney Airport"/>
+                    <StringItem index="27" value="Bethel Airport"/>
+                    <StringItem index="28" value="Bill and Hillary Clinton National Airport&#xc2;&#xa0;(Adams Field)"/>
+                    <StringItem index="29" value="Billings Logan International Airport"/>
+                    <StringItem index="30" value="Birmingham-Shuttlesworth International Airport"/>
+                    <StringItem index="31" value="Bishop International Airport"/>
+                    <StringItem index="32" value="Bismarck Municipal Airport"/>
+                    <StringItem index="33" value="Blue Grass Airport"/>
+                    <StringItem index="34" value="Bob Hope Airport&#xc2;&#xa0;(Hollywood Burbank Airport)"/>
+                    <StringItem index="35" value="Boise Airport&#xc2;&#xa0;(Boise Air Terminal)"/>
+                    <StringItem index="36" value="Bozeman Yellowstone International Airport&#xc2;&#xa0;(Gallatin Field Airport)"/>
+                    <StringItem index="37" value="Bradley International Airport"/>
+                    <StringItem index="38" value="Brainerd Lakes Regional Airport"/>
+                    <StringItem index="39" value="Brownsville/South Padre Island International Airport"/>
+                    <StringItem index="40" value="Brunswick Golden Isles Airport"/>
+                    <StringItem index="41" value="Buffalo Niagara International Airport"/>
+                    <StringItem index="42" value="Burlington International Airport"/>
+                    <StringItem index="43" value="Canyonlands Field"/>
+                    <StringItem index="44" value="Capital Region International Airport&#xc2;&#xa0;( Lansing Capital City)"/>
+                    <StringItem index="45" value="Cedar City Regional Airport"/>
+                    <StringItem index="46" value="Central Illinois Regional Airport at Bloomington-Normal"/>
+                    <StringItem index="47" value="Central Nebraska Regional Airport"/>
+                    <StringItem index="48" value="Central Wisconsin Airport"/>
+                    <StringItem index="49" value="Charleston International Airport/Charleston AFB"/>
+                    <StringItem index="50" value="Charlotte Douglas International Airport"/>
+                    <StringItem index="51" value="Charlottesville-Albemarle Airport"/>
+                    <StringItem index="52" value="Chattanooga Metropolitan Airport&#xc2;&#xa0;(Lovell Field)"/>
+                    <StringItem index="53" value="Cherry Capital Airport"/>
+                    <StringItem index="54" value="Chicago Midway International Airport"/>
+                    <StringItem index="55" value="Chicago O&apos;Hare International Airport"/>
+                    <StringItem index="56" value="Chippewa County International Airport"/>
+                    <StringItem index="57" value="Chippewa Valley Regional Airport"/>
+                    <StringItem index="58" value="Cincinnati/Northern Kentucky International Airport"/>
+                    <StringItem index="59" value="City of Colorado Springs Municipal Airport"/>
+                    <StringItem index="60" value="Cleveland Hopkins International Airport"/>
+                    <StringItem index="61" value="Coastal Carolina Regional Airport&#xc2;&#xa0;(Craven County Regional)"/>
+                    <StringItem index="62" value="Columbia Metropolitan Airport"/>
+                    <StringItem index="63" value="Columbia Regional Airport"/>
+                    <StringItem index="64" value="Columbus Metropolitan Airport"/>
+                    <StringItem index="65" value="Corpus Christi International Airport"/>
+                    <StringItem index="66" value="Cyril E. King Airport"/>
+                    <StringItem index="67" value="Dallas Love Field"/>
+                    <StringItem index="68" value="Dallas/Fort Worth International Airport"/>
+                    <StringItem index="69" value="Dane County Regional Airport"/>
+                    <StringItem index="70" value="Daytona Beach International Airport"/>
+                    <StringItem index="71" value="Deadhorse Airport&#xc2;&#xa0;(Prudhoe Bay Airport)"/>
+                    <StringItem index="72" value="Del Norte County Airport&#xc2;&#xa0;(Jack McNamara Field)"/>
+                    <StringItem index="73" value="Delta County Airport"/>
+                    <StringItem index="74" value="Denver International Airport"/>
+                    <StringItem index="75" value="Des Moines International Airport"/>
+                    <StringItem index="76" value="Destin-Fort Walton Beach Airport/Eglin AFB"/>
+                    <StringItem index="77" value="Detroit Metropolitan Airport"/>
+                    <StringItem index="78" value="Devils Lake Regional Airport"/>
+                    <StringItem index="79" value="Dickinson Theodore Roosevelt Regional Airport"/>
+                    <StringItem index="80" value="Dillingham Airport"/>
+                    <StringItem index="81" value="Dothan Regional Airport"/>
+                    <StringItem index="82" value="Dubuque Regional Airport"/>
+                    <StringItem index="83" value="Duluth International Airport"/>
+                    <StringItem index="84" value="Durango-La Plata County Airport"/>
+                    <StringItem index="85" value="Eagle County Regional Airport"/>
+                    <StringItem index="86" value="East Texas Regional Airport"/>
+                    <StringItem index="87" value="Easterwood Airport"/>
+                    <StringItem index="88" value="El Paso International Airport"/>
+                    <StringItem index="89" value="Elko Regional Airport"/>
+                    <StringItem index="90" value="Elmira/Corning Regional Airport"/>
+                    <StringItem index="91" value="Eppley Airfield"/>
+                    <StringItem index="92" value="Erie International Airport"/>
+                    <StringItem index="93" value="Eugene Airport&#xc2;&#xa0;(Mahlon Sweet Field)"/>
+                    <StringItem index="94" value="Evansville Regional Airport"/>
+                    <StringItem index="95" value="Fairbanks International Airport"/>
+                    <StringItem index="96" value="Falls International Airport"/>
+                    <StringItem index="97" value="Fayetteville Regional Airport"/>
+                    <StringItem index="98" value="Flagstaff Pulliam Airport"/>
+                    <StringItem index="99" value="Ford Airport"/>
+                    <StringItem index="100" value="Fort Lauderdale-Hollywood International Airport"/>
+                    <StringItem index="101" value="Fort Smith Regional Airport"/>
+                    <StringItem index="102" value="Fort Wayne International Airport"/>
+                    <StringItem index="103" value="Fresno Yosemite International Airport"/>
+                    <StringItem index="104" value="Friedman Memorial Airport"/>
+                    <StringItem index="105" value="Gainesville Regional Airport"/>
+                    <StringItem index="106" value="Garden City Regional Airport"/>
+                    <StringItem index="107" value="Gen. Edward Lawrence Logan International Airport"/>
+                    <StringItem index="108" value="General Mitchell International Airport"/>
+                    <StringItem index="109" value="General Wayne A. Downing Peoria International Airport"/>
+                    <StringItem index="110" value="George Bush Intercontinental Airport"/>
+                    <StringItem index="111" value="Gerald R. Ford International Airport"/>
+                    <StringItem index="112" value="Gillette-Campbell County Airport"/>
+                    <StringItem index="113" value="Glacier Park International Airport"/>
+                    <StringItem index="114" value="Golden Triangle Regional Airport"/>
+                    <StringItem index="115" value="Grand Forks International Airport"/>
+                    <StringItem index="116" value="Grand Junction Regional Airport&#xc2;&#xa0;(Walker Field)"/>
+                    <StringItem index="117" value="Great Falls International Airport"/>
+                    <StringItem index="118" value="Greater Binghamton Airport"/>
+                    <StringItem index="119" value="Greater Rochester International Airport"/>
+                    <StringItem index="120" value="Green Bay-Austin Straubel International Airport"/>
+                    <StringItem index="121" value="Greenville-Spartanburg International Airport"/>
+                    <StringItem index="122" value="Guam International Airport"/>
+                    <StringItem index="123" value="Gulfport-Biloxi International Airport"/>
+                    <StringItem index="124" value="Gunnison-Crested Butte Regional Airport"/>
+                    <StringItem index="125" value="Gustavus Airport"/>
+                    <StringItem index="126" value="Harrisburg International Airport"/>
+                    <StringItem index="127" value="Hartsfield-Jackson Atlanta International Airport"/>
+                    <StringItem index="128" value="Hattiesburg-Laurel Regional Airport"/>
+                    <StringItem index="129" value="Hays Regional Airport"/>
+                    <StringItem index="130" value="Hector International Airport"/>
+                    <StringItem index="131" value="Helena Regional Airport"/>
+                    <StringItem index="132" value="Henry E. Rohlsen Airport"/>
+                    <StringItem index="133" value="Hilo International Airport"/>
+                    <StringItem index="134" value="Honolulu International Airport"/>
+                    <StringItem index="135" value="Houghton County Memorial Airport"/>
+                    <StringItem index="136" value="Huntsville International Airport"/>
+                    <StringItem index="137" value="Idaho Falls Regional Airport"/>
+                    <StringItem index="138" value="Indianapolis International Airport"/>
+                    <StringItem index="139" value="Ithaca Tompkins Regional Airport"/>
+                    <StringItem index="140" value="Jack Brooks Regional Airport&#xc2;&#xa0;(Southeast Texas Regional)"/>
+                    <StringItem index="141" value="Jackson Hole Airport"/>
+                    <StringItem index="142" value="Jackson-Evers International Airport"/>
+                    <StringItem index="143" value="Jacksonville International Airport"/>
+                    <StringItem index="144" value="James M. Cox Dayton International Airport"/>
+                    <StringItem index="145" value="Jamestown Regional Airport"/>
+                    <StringItem index="146" value="John F. Kennedy International Airport&#xc2;&#xa0;(New York International Airport)"/>
+                    <StringItem index="147" value="John Wayne Airport&#xc2;&#xa0;(Orange County Airport)"/>
+                    <StringItem index="148" value="Joplin Regional Airport"/>
+                    <StringItem index="149" value="Juneau International Airport"/>
+                    <StringItem index="150" value="Kahului Airport"/>
+                    <StringItem index="151" value="Kalamazoo/Battle Creek International Airport"/>
+                    <StringItem index="152" value="Kansas City International Airport"/>
+                    <StringItem index="153" value="Ketchikan International Airport"/>
+                    <StringItem index="154" value="Key West International Airport"/>
+                    <StringItem index="155" value="Killeen-Fort Hood Regional Airport"/>
+                    <StringItem index="156" value="King Salmon Airport"/>
+                    <StringItem index="157" value="Kodiak Airport"/>
+                    <StringItem index="158" value="Kona International Airport at Keahole"/>
+                    <StringItem index="159" value="La Crosse Regional Airport"/>
+                    <StringItem index="160" value="Lafayette Regional Airport"/>
+                    <StringItem index="161" value="LaGuardia Airport (Marine Air Terminal)"/>
+                    <StringItem index="162" value="Lake Charles Regional Airport"/>
+                    <StringItem index="163" value="Laramie Regional Airport"/>
+                    <StringItem index="164" value="Laredo International Airport"/>
+                    <StringItem index="165" value="Lawton-Fort Sill Regional Airport"/>
+                    <StringItem index="166" value="Lea County Regional Airport"/>
+                    <StringItem index="167" value="Lehigh Valley International Airport"/>
+                    <StringItem index="168" value="Lewiston-Nez Perce County Airport"/>
+                    <StringItem index="169" value="Lihue Airport"/>
+                    <StringItem index="170" value="Lincoln Airport&#xc2;&#xa0;(Lincoln Municipal)"/>
+                    <StringItem index="171" value="Long Beach Airport&#xc2;&#xa0;(Daugherty Field)"/>
+                    <StringItem index="172" value="Long Island MacArthur Airport"/>
+                    <StringItem index="173" value="Los Angeles International Airport"/>
+                    <StringItem index="174" value="Louis Armstrong New Orleans International Airport"/>
+                    <StringItem index="175" value="Louisville International Airport&#xc2;&#xa0;(Standiford Field)"/>
+                    <StringItem index="176" value="Lubbock Preston Smith International Airport"/>
+                    <StringItem index="177" value="Luis Mu&#xc3;&#xb1;oz Mar&#xc3;&#xad;n International Airport"/>
+                    <StringItem index="178" value="Magic Valley Regional Airport&#xc2;&#xa0;(Joslin Field)"/>
+                    <StringItem index="179" value="Mammoth Yosemite Airport"/>
+                    <StringItem index="180" value="Manchester-Boston Regional Airport"/>
+                    <StringItem index="181" value="Manhattan Regional Airport"/>
+                    <StringItem index="182" value="Martha&apos;s Vineyard Airport"/>
+                    <StringItem index="183" value="MBS International Airport"/>
+                    <StringItem index="184" value="McAllen-Miller International Airport&#xc2;&#xa0;(McAllen Miller International)"/>
+                    <StringItem index="185" value="McCarran International Airport"/>
+                    <StringItem index="186" value="McClellan-Palomar Airport"/>
+                    <StringItem index="187" value="McGhee Tyson Airport"/>
+                    <StringItem index="188" value="Meadows Field"/>
+                    <StringItem index="189" value="Melbourne International Airport"/>
+                    <StringItem index="190" value="Memphis International Airport"/>
+                    <StringItem index="191" value="Mercedita Airport"/>
+                    <StringItem index="192" value="Meridian Regional Airport"/>
+                    <StringItem index="193" value="Merle K. (Mudhole) Smith Airport"/>
+                    <StringItem index="194" value="Miami International Airport"/>
+                    <StringItem index="195" value="Midland International Airport"/>
+                    <StringItem index="196" value="Minneapolis-Saint Paul International Airport"/>
+                    <StringItem index="197" value="Minot International Airport"/>
+                    <StringItem index="198" value="Missoula International Airport"/>
+                    <StringItem index="199" value="Mobile Regional Airport"/>
+                    <StringItem index="200" value="Monroe Regional Airport"/>
+                    <StringItem index="201" value="Monterey Regional Airport&#xc2;&#xa0;(Monterey Peninsula Airport)"/>
+                    <StringItem index="202" value="Montgomery Regional Airport"/>
+                    <StringItem index="203" value="Montrose Regional Airport"/>
+                    <StringItem index="204" value="Muskegon County Airport"/>
+                    <StringItem index="205" value="Myrtle Beach International Airport"/>
+                    <StringItem index="206" value="Nantucket Memorial Airport"/>
+                    <StringItem index="207" value="Nashville International Airport"/>
+                    <StringItem index="208" value="Natrona County International Airport"/>
+                    <StringItem index="209" value="Newark Liberty International Airport"/>
+                    <StringItem index="210" value="Newport News/Williamsburg International Airport"/>
+                    <StringItem index="211" value="Niagara Falls International Airport"/>
+                    <StringItem index="212" value="Nome Airport"/>
+                    <StringItem index="213" value="Norfolk International Airport"/>
+                    <StringItem index="214" value="Norman Y. Mineta San Jos&#xc3;&#xa9; International Airport"/>
+                    <StringItem index="215" value="Northeast Florida Regional Airport&#xc2;&#xa0;(St. Augustine Airport)"/>
+                    <StringItem index="216" value="Northwest Arkansas Regional Airport"/>
+                    <StringItem index="217" value="Northwest Florida Beaches International Airport"/>
+                    <StringItem index="218" value="Oakland International Airport"/>
+                    <StringItem index="219" value="Ontario International Airport"/>
+                    <StringItem index="220" value="Orlando International Airport"/>
+                    <StringItem index="221" value="Pago Pago International Airport (Tafuna Airport)"/>
+                    <StringItem index="222" value="Palm Beach International Airport"/>
+                    <StringItem index="223" value="Palm Springs International Airport"/>
+                    <StringItem index="224" value="Pellston Regional Airport of Emmet County"/>
+                    <StringItem index="225" value="Pensacola International Airport&#xc2;&#xa0;(Pensacola Gulf Coast Regional Airport)"/>
+                    <StringItem index="226" value="Petersburg James A. Johnson Airport"/>
+                    <StringItem index="227" value="Philadelphia International Airport"/>
+                    <StringItem index="228" value="Phoenix Sky Harbor International Airport"/>
+                    <StringItem index="229" value="Piedmont Triad International Airport"/>
+                    <StringItem index="230" value="Pittsburgh International Airport"/>
+                    <StringItem index="231" value="Plattsburgh International Airport"/>
+                    <StringItem index="232" value="Pocatello Regional Airport"/>
+                    <StringItem index="233" value="Port Columbus International Airport"/>
+                    <StringItem index="234" value="Portland International Airport"/>
+                    <StringItem index="235" value="Portland International Jetport"/>
+                    <StringItem index="236" value="Pueblo Memorial Airport"/>
+                    <StringItem index="237" value="Quad City International Airport"/>
+                    <StringItem index="238" value="Rafael Hern&#xc3;&#xa1;ndez Airport"/>
+                    <StringItem index="239" value="Raleigh-Durham International Airport"/>
+                    <StringItem index="240" value="Ralph Wien Memorial Airport"/>
+                    <StringItem index="241" value="Range Regional Airport&#xc2;&#xa0;(Chisholm-Hibbing Airport)"/>
+                    <StringItem index="242" value="Rapid City Regional Airport"/>
+                    <StringItem index="243" value="Redding Municipal Airport"/>
+                    <StringItem index="244" value="Redmond Municipal Airport&#xc2;&#xa0;(Roberts Field)"/>
+                    <StringItem index="245" value="Reno/Tahoe International Airport"/>
+                    <StringItem index="246" value="Rhinelander-Oneida County Airport"/>
+                    <StringItem index="247" value="Richmond International Airport"/>
+                    <StringItem index="248" value="Rick Husband Amarillo International Airport"/>
+                    <StringItem index="249" value="Roanoke Regional Airport&#xc2;&#xa0;(Woodrum Field)"/>
+                    <StringItem index="250" value="Rochester International Airport"/>
+                    <StringItem index="251" value="Rock Springs-Sweetwater County Airport"/>
+                    <StringItem index="252" value="Rogue Valley International Airport"/>
+                    <StringItem index="253" value="Ronald Reagan Washington National Airport"/>
+                    <StringItem index="254" value="Roswell International Air Center"/>
+                    <StringItem index="255" value="Sacramento International Airport"/>
+                    <StringItem index="256" value="Salt Lake City International Airport"/>
+                    <StringItem index="257" value="San Angelo Regional Airport&#xc2;&#xa0;(Mathis Field)"/>
+                    <StringItem index="258" value="San Antonio International Airport"/>
+                    <StringItem index="259" value="San Diego International Airport&#xc2;&#xa0;(Lindbergh Field)"/>
+                    <StringItem index="260" value="San Francisco International Airport"/>
+                    <StringItem index="261" value="San Luis Obispo County Regional Airport&#xc2;&#xa0;(McChesney Field)"/>
+                    <StringItem index="262" value="Santa Barbara Municipal Airport&#xc2;&#xa0;(Santa Barbara Airport)"/>
+                    <StringItem index="263" value="Santa Fe Municipal Airport"/>
+                    <StringItem index="264" value="Santa Maria Public Airport&#xc2;&#xa0;(Capt G. Allan Hancock Field)"/>
+                    <StringItem index="265" value="Sarasota-Bradenton International Airport"/>
+                    <StringItem index="266" value="Savannah/Hilton Head International Airport"/>
+                    <StringItem index="267" value="Sawyer International Airport"/>
+                    <StringItem index="268" value="Seattle-Tacoma International Airport"/>
+                    <StringItem index="269" value="Shreveport Regional Airport"/>
+                    <StringItem index="270" value="Sioux Falls Regional Airport"/>
+                    <StringItem index="271" value="Sioux Gateway Airport"/>
+                    <StringItem index="272" value="Sitka Rocky Gutierrez Airport"/>
+                    <StringItem index="273" value="Sloulin Field International Airport"/>
+                    <StringItem index="274" value="South Bend International Airport&#xc2;&#xa0;(South Bend Regional)"/>
+                    <StringItem index="275" value="Southwest Florida International Airport"/>
+                    <StringItem index="276" value="Southwest Georgia Regional Airport"/>
+                    <StringItem index="277" value="Southwest Oregon Regional Airport&#xc2;&#xa0;(North Bend Municipal)"/>
+                    <StringItem index="278" value="Spokane International Airport"/>
+                    <StringItem index="279" value="Springfield-Branson National Airport"/>
+                    <StringItem index="280" value="St. Cloud Regional Airport"/>
+                    <StringItem index="281" value="St. George Regional Airport"/>
+                    <StringItem index="282" value="St. Louis International Airport at Lambert Field"/>
+                    <StringItem index="283" value="Stewart International Airport"/>
+                    <StringItem index="284" value="Syracuse Hancock International Airport"/>
+                    <StringItem index="285" value="Tallahassee International Airport"/>
+                    <StringItem index="286" value="Tampa International Airport"/>
+                    <StringItem index="287" value="Ted Stevens Anchorage International Airport"/>
+                    <StringItem index="288" value="Texarkana Regional Airport&#xc2;&#xa0;(Webb Field)"/>
+                    <StringItem index="289" value="The Eastern Iowa Airport"/>
+                    <StringItem index="290" value="Theodore Francis Green State Airport"/>
+                    <StringItem index="291" value="Toledo Express Airport"/>
+                    <StringItem index="292" value="Trenton Mercer Airport"/>
+                    <StringItem index="293" value="Tri-Cities Airport"/>
+                    <StringItem index="294" value="Tri-Cities Regional Airport"/>
+                    <StringItem index="295" value="Tucson International Airport"/>
+                    <StringItem index="296" value="Tulsa International Airport"/>
+                    <StringItem index="297" value="Tyler Pounds Regional Airport"/>
+                    <StringItem index="298" value="University of Illinois - Willard Airport"/>
+                    <StringItem index="299" value="University Park Airport"/>
+                    <StringItem index="300" value="Valdez Airport"/>
+                    <StringItem index="301" value="Valdosta Regional Airport"/>
+                    <StringItem index="302" value="Valley International Airport"/>
+                    <StringItem index="303" value="Waco Regional Airport"/>
+                    <StringItem index="304" value="Washington Dulles International Airport"/>
+                    <StringItem index="305" value="Waterloo Regional Airport"/>
+                    <StringItem index="306" value="Westchester County Airport"/>
+                    <StringItem index="307" value="Westerly State Airport"/>
+                    <StringItem index="308" value="Wichita Dwight D. Eisenhower National Airport&#xc2;&#xa0;(Wichita Mid-Continent Airport)"/>
+                    <StringItem index="309" value="Wichita Falls Municipal Airport/Sheppard AFB"/>
+                    <StringItem index="310" value="Wiley Post-Will Rogers Memorial Airport"/>
+                    <StringItem index="311" value="Wilkes-Barre/Scranton International Airport"/>
+                    <StringItem index="312" value="Will Rogers World Airport"/>
+                    <StringItem index="313" value="William P. Hobby Airport"/>
+                    <StringItem index="314" value="Wilmington Airport"/>
+                    <StringItem index="315" value="Wilmington International Airport"/>
+                    <StringItem index="316" value="Worcester Regional Airport"/>
+                    <StringItem index="317" value="Wrangell Airport"/>
+                    <StringItem index="318" value="Yakutat Airport"/>
+                    <StringItem index="319" value="Yampa Valley Airport&#xc2;&#xa0;(Yampa Valley Regional)"/>
+                    <StringItem index="320" value="Yeager Airport"/>
+                    <StringItem index="321" value="Yellowstone Regional Airport"/>
+                    <StringItem index="322" value="Yuma International Airport"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton7">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="M&#xea;s"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton7ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Trimestre"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton8ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton9">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="Movimento (partidas + chegadas)"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton9ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton10">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="N&#xfa;mero de voos cancelados"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton10ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton11">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="N&#xfa;mero de voos desviados"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton11ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="   Mostrar   "/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton8ActionPerformed"/>
+              </Events>
+            </Component>
+            <Container class="javax.swing.JPanel" name="jPanel4">
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <EmptySpace min="0" pref="925" max="32767" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <EmptySpace min="0" pref="380" max="32767" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel21">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Dia"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel22">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="M&#xea;s"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel23">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Dia"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel24">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="M&#xea;s"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel32">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Cabe&#xe7;alho"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JCheckBox" name="jCheckBox2">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="Mostrar gr&#xe1;fico"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jCheckBox2ActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel5">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="     Hubs     ">
+                <Property name="tabTitle" type="java.lang.String" value="     Hubs     "/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jComboBox11" alignment="0" min="-2" pref="200" max="-2" attributes="0"/>
+                                  <Component id="jPanel6" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="jButton9" min="-2" pref="120" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel29" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jTextField1" min="-2" pref="225" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="951" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jComboBox11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jButton9" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel29" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                      <Component id="jPanel6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="260" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JComboBox" name="jComboBox11">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="15">
+                    <StringItem index="0" value="Selecionar companhia a&#xe9;rea"/>
+                    <StringItem index="1" value="Alaska Airlines Inc."/>
+                    <StringItem index="2" value="American Airlines Inc."/>
+                    <StringItem index="3" value="American Eagle Airlines Inc."/>
+                    <StringItem index="4" value="Atlantic Southeast Airlines"/>
+                    <StringItem index="5" value="Delta Airlines Inc."/>
+                    <StringItem index="6" value="Frontier Airlines Inc."/>
+                    <StringItem index="7" value="Hawaiian Airlines Inc."/>
+                    <StringItem index="8" value="JetBlue Airways"/>
+                    <StringItem index="9" value="Skywest Airlines Inc."/>
+                    <StringItem index="10" value="Southwest Airlines Co."/>
+                    <StringItem index="11" value="Spirit Airlines"/>
+                    <StringItem index="12" value="United Airlines Inc."/>
+                    <StringItem index="13" value="US Airways Inc."/>
+                    <StringItem index="14" value="Virgin America"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton9">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Mostrar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton9ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel29">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Hub no aeroporto: "/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JPanel" name="jPanel6">
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <EmptySpace min="0" pref="1240" max="32767" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <EmptySpace min="0" pref="500" max="32767" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,15 @@
+IATA_CODE,AIRLINE,HUB,FLEET_SIZE
+UA,United Airlines Inc.,Chicago O'Hare International Airport,738
+AA,American Airlines Inc.,Tulsa International Airport,939
+US,US Airways Inc.,Charlotte Douglas International Airport,338
+F9,Frontier Airlines Inc.,Denver International Airport,66
+B6,JetBlue Airways,John F. Kennedy International Airport (New York International Airport),228
+OO,Skywest Airlines Inc.,Chicago O'Hare International Airport,382
+AS,Alaska Airlines Inc.,Seattle-Tacoma International Airport,155
+NK,Spirit Airlines,Fort Lauderdale-Hollywood International Airport,98
+WN,Southwest Airlines Co.,Dallas Love Field,723
+DL,Delta Airlines Inc.,Hartsfield-Jackson Atlanta International Airport,856
+EV,Atlantic Southeast Airlines,Hartsfield-Jackson Atlanta International Airport,165
+HA,Hawaiian Airlines Inc.,Honolulu International Airport,49
+MQ,American Eagle Airlines Inc.,Dallas/Fort Worth International Airport,0
+VX,Virgin America,San Francisco International Airport,63

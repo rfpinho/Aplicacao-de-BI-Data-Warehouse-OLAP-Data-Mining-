@@ -1,0 +1,201 @@
+IATA_CODE,AIRPORT,YEAR,FLIGHTS,PASSENGERS
+ATL,Hartsfield-Jackson Atlanta International Airport,2007,437161,38640955
+ATL,Hartsfield-Jackson Atlanta International Airport,2008,433791,39020787
+ATL,Hartsfield-Jackson Atlanta International Airport,2009,436654,37804585
+ATL,Hartsfield-Jackson Atlanta International Airport,2010,425353,38475657
+ATL,Hartsfield-Jackson Atlanta International Airport,2011,411807,39573787
+ATL,Hartsfield-Jackson Atlanta International Airport,2012,415829,40937424
+ATL,Hartsfield-Jackson Atlanta International Airport,2013,406900,40328584
+ATL,Hartsfield-Jackson Atlanta International Airport,2014,381995,41331492
+ATL,Hartsfield-Jackson Atlanta International Airport,2015,389019,43909249
+ATL,Hartsfield-Jackson Atlanta International Airport,2016,395260,44879128
+ORD,Chicago O'Hare International Airport,2007,396213,30835322
+ORD,Chicago O'Hare International Airport,2008,373419,28168618
+ORD,Chicago O'Hare International Airport,2009,351882,26045472
+ORD,Chicago O'Hare International Airport,2010,373032,26994370
+ORD,Chicago O'Hare International Airport,2011,372752,26690559
+ORD,Chicago O'Hare International Airport,2012,376343,27008230
+ORD,Chicago O'Hare International Airport,2013,376721,26950861
+ORD,Chicago O'Hare International Airport,2014,373409,28098448
+ORD,Chicago O'Hare International Airport,2015,371178,30536332
+ORD,Chicago O'Hare International Airport,2016,369144,31493373
+DFW,Dallas/Fort Worth International Airport,2007,298094,25882284
+DFW,Dallas/Fort Worth International Airport,2008,286369,24689673
+DFW,Dallas/Fort Worth International Airport,2009,281452,24269049
+DFW,Dallas/Fort Worth International Airport,2010,285946,24500898
+DFW,Dallas/Fort Worth International Airport,2011,281284,24827144
+DFW,Dallas/Fort Worth International Airport,2012,283140,25103054
+DFW,Dallas/Fort Worth International Airport,2013,294236,25805745
+DFW,Dallas/Fort Worth International Airport,2014,293052,27309768
+DFW,Dallas/Fort Worth International Airport,2015,291632,27802912
+DFW,Dallas/Fort Worth International Airport,2016,284355,27365891
+DEN,Denver International Airport,2007,280565,22998300
+DEN,Denver International Airport,2008,284120,23164762
+DEN,Denver International Airport,2009,279742,23006550
+DEN,Denver International Airport,2010,290411,24268277
+DEN,Denver International Airport,2011,290652,24757626
+DEN,Denver International Airport,2012,283863,24906331
+DEN,Denver International Airport,2013,267649,24503444
+DEN,Denver International Airport,2014,257803,24877202
+DEN,Denver International Airport,2015,247378,25169693
+DEN,Denver International Airport,2016,259063,27093421
+LAX,Los Angeles International Airport,2007,246953,21765640
+LAX,Los Angeles International Airport,2008,229454,20774501
+LAX,Los Angeles International Airport,2009,206943,20124534
+LAX,Los Angeles International Airport,2010,214086,21163625
+LAX,Los Angeles International Airport,2011,227987,22439768
+LAX,Los Angeles International Airport,2012,229715,23019612
+LAX,Los Angeles International Airport,2013,233257,23818619
+LAX,Los Angeles International Airport,2014,241425,25125274
+LAX,Los Angeles International Airport,2015,239763,26553833
+LAX,Los Angeles International Airport,2016,250589,28508826
+SFO,San Francisco International Airport,2007,140564,13020348
+SFO,San Francisco International Airport,2008,148622,13959289
+SFO,San Francisco International Airport,2009,148782,14505341
+SFO,San Francisco International Airport,2010,151811,15149408
+SFO,San Francisco International Airport,2011,159025,15714389
+SFO,San Francisco International Airport,2012,169143,16737351
+SFO,San Francisco International Airport,2013,168551,16964524
+SFO,San Francisco International Airport,2014,171400,17744960
+SFO,San Francisco International Airport,2015,167935,18783715
+SFO,San Francisco International Airport,2016,175472,19675620
+PHX,Phoenix Sky Harbor International Airport,2007,214528,19889551
+PHX,Phoenix Sky Harbor International Airport,2008,202020,18516757
+PHX,Phoenix Sky Harbor International Airport,2009,186104,17617557
+PHX,Phoenix Sky Harbor International Airport,2010,182162,17827777
+PHX,Phoenix Sky Harbor International Airport,2011,190000,18630976
+PHX,Phoenix Sky Harbor International Airport,2012,185037,18439079
+PHX,Phoenix Sky Harbor International Airport,2013,180044,18410076
+PHX,Phoenix Sky Harbor International Airport,2014,177497,19224449
+PHX,Phoenix Sky Harbor International Airport,2015,179177,20190284
+PHX,Phoenix Sky Harbor International Airport,2016,181121,19856139
+IAH,George Bush Intercontinental Airport,2007,240685,16963721
+IAH,George Bush Intercontinental Airport,2008,228253,16162794
+IAH,George Bush Intercontinental Airport,2009,212570,15443794
+IAH,George Bush Intercontinental Airport,2010,206853,15333716
+IAH,George Bush Intercontinental Airport,2011,203029,15065420
+IAH,George Bush Intercontinental Airport,2012,194077,14771405
+IAH,George Bush Intercontinental Airport,2013,192371,14558240
+IAH,George Bush Intercontinental Airport,2014,191508,14975603
+IAH,George Bush Intercontinental Airport,2015,186997,15460397
+IAH,George Bush Intercontinental Airport,2016,173200,14737779
+LAS,McCarran International Airport,2007,195899,21080852
+LAS,McCarran International Airport,2008,183180,19650516
+LAS,McCarran International Airport,2009,164893,18129280
+LAS,McCarran International Airport,2010,156844,17774440
+LAS,McCarran International Airport,2011,162550,18411153
+LAS,McCarran International Airport,2012,159414,18381095
+LAS,McCarran International Airport,2013,154462,18402510
+LAS,McCarran International Airport,2014,153262,18712331
+LAS,McCarran International Airport,2015,156022,19938837
+LAS,McCarran International Airport,2016,161438,20858786
+MSP,Minneapolis-Saint Paul International Airport,2007,190272,15640332
+MSP,Minneapolis-Saint Paul International Airport,2008,189782,15049189
+MSP,Minneapolis-Saint Paul International Airport,2009,186742,14408962
+MSP,Minneapolis-Saint Paul International Airport,2010,183898,14357124
+MSP,Minneapolis-Saint Paul International Airport,2011,184305,14763052
+MSP,Minneapolis-Saint Paul International Airport,2012,181614,14834920
+MSP,Minneapolis-Saint Paul International Airport,2013,185512,15113915
+MSP,Minneapolis-Saint Paul International Airport,2014,174709,15771344
+MSP,Minneapolis-Saint Paul International Airport,2015,170498,16321717
+MSP,Minneapolis-Saint Paul International Airport,2016,173339,16695233
+SEA,Seattle-Tacoma International Airport,2007,147762,14123183
+SEA,Seattle-Tacoma International Airport,2008,147591,14403711
+SEA,Seattle-Tacoma International Airport,2009,136159,13966599
+SEA,Seattle-Tacoma International Airport,2010,134055,14007067
+SEA,Seattle-Tacoma International Airport,2011,134672,14488981
+SEA,Seattle-Tacoma International Airport,2012,132200,14537720
+SEA,Seattle-Tacoma International Airport,2013,134876,14949556
+SEA,Seattle-Tacoma International Airport,2014,143802,15996552
+SEA,Seattle-Tacoma International Airport,2015,161763,17955740
+SEA,Seattle-Tacoma International Airport,2016,174996,19509397
+MCO,Orlando International Airport,2007,155003,16481553
+MCO,Orlando International Airport,2008,143818,15979707
+MCO,Orlando International Airport,2009,128360,14883835
+MCO,Orlando International Airport,2010,130736,15438238
+MCO,Orlando International Airport,2011,131311,15537183
+MCO,Orlando International Airport,2012,125942,15267141
+MCO,Orlando International Airport,2013,121145,14939193
+MCO,Orlando International Airport,2014,119408,15128434
+MCO,Orlando International Airport,2015,126162,16269428
+MCO,Orlando International Airport,2016,129650,17544328
+DTW,Detroit Metropolitan Airport,2007,205740,15566461
+DTW,Detroit Metropolitan Airport,2008,203930,15073019
+DTW,Detroit Metropolitan Airport,2009,195495,13806478
+DTW,Detroit Metropolitan Airport,2010,203849,14181494
+DTW,Detroit Metropolitan Airport,2011,200350,14195706
+DTW,Detroit Metropolitan Airport,2012,192286,14014335
+DTW,Detroit Metropolitan Airport,2013,191344,14054198
+DTW,Detroit Metropolitan Airport,2014,175112,14118037
+DTW,Detroit Metropolitan Airport,2015,169928,14640404
+DTW,Detroit Metropolitan Airport,2016,176026,15181473
+BOS,Gen. Edward Lawrence Logan International Airport,2007,161010,11853270
+BOS,Gen. Edward Lawrence Logan International Airport,2008,150649,11025582
+BOS,Gen. Edward Lawrence Logan International Airport,2009,146374,10798176
+BOS,Gen. Edward Lawrence Logan International Airport,2010,147958,11706106
+BOS,Gen. Edward Lawrence Logan International Airport,2011,149058,12177030
+BOS,Gen. Edward Lawrence Logan International Airport,2012,142014,12254591
+BOS,Gen. Edward Lawrence Logan International Airport,2013,146183,12713807
+BOS,Gen. Edward Lawrence Logan International Airport,2014,146402,13178133
+BOS,Gen. Edward Lawrence Logan International Airport,2015,148966,13788461
+BOS,Gen. Edward Lawrence Logan International Airport,2016,153311,14643533
+CLT,Charlotte Douglas International Airport,2007,218047,15565353
+CLT,Charlotte Douglas International Airport,2008,225482,16175176
+CLT,Charlotte Douglas International Airport,2009,219449,16041705
+CLT,Charlotte Douglas International Airport,2010,228329,17291596
+CLT,Charlotte Douglas International Airport,2011,233578,17604471
+CLT,Charlotte Douglas International Airport,2012,241640,18567536
+CLT,Charlotte Douglas International Airport,2013,247814,19826421
+CLT,Charlotte Douglas International Airport,2014,238688,19987477
+CLT,Charlotte Douglas International Airport,2015,238630,20408070
+CLT,Charlotte Douglas International Airport,2016,239774,19983766
+EWR,Newark Liberty International Airport,2007,155541,12777043
+EWR,Newark Liberty International Airport,2008,153598,12045674
+EWR,Newark Liberty International Airport,2009,145168,11283497
+EWR,Newark Liberty International Airport,2010,138870,10837843
+EWR,Newark Liberty International Airport,2011,139606,11022303
+EWR,Newark Liberty International Airport,2012,144503,11400707
+EWR,Newark Liberty International Airport,2013,145659,11845361
+EWR,Newark Liberty International Airport,2014,137405,11865477
+EWR,Newark Liberty International Airport,2015,144127,12852228
+EWR,Newark Liberty International Airport,2016,150752,13849836
+SLC,Salt Lake City International Airport,2007,148460,10297659
+SLC,Salt Lake City International Airport,2008,139002,9724082
+SLC,Salt Lake City International Airport,2009,135383,9662454
+SLC,Salt Lake City International Airport,2010,132533,9668094
+SLC,Salt Lake City International Airport,2011,123875,9484141
+SLC,Salt Lake City International Airport,2012,115409,9387246
+SLC,Salt Lake City International Airport,2013,114289,9471932
+SLC,Salt Lake City International Airport,2014,113922,9929660
+SLC,Salt Lake City International Airport,2015,110826,10341844
+SLC,Salt Lake City International Airport,2016,114591,10749157
+LGA,LaGuardia Airport (Marine Air Terminal),2007,177809,11856902
+LGA,LaGuardia Airport (Marine Air Terminal),2008,172101,10910077
+LGA,LaGuardia Airport (Marine Air Terminal),2009,160498,10514066
+LGA,LaGuardia Airport (Marine Air Terminal),2010,164005,11451765
+LGA,LaGuardia Airport (Marine Air Terminal),2011,167038,11445075
+LGA,LaGuardia Airport (Marine Air Terminal),2012,164558,12068443
+LGA,LaGuardia Airport (Marine Air Terminal),2013,163883,12517642
+LGA,LaGuardia Airport (Marine Air Terminal),2014,161849,12607645
+LGA,LaGuardia Airport (Marine Air Terminal),2015,162078,13381212
+LGA,LaGuardia Airport (Marine Air Terminal),2016,165816,13693863
+JFK,John F. Kennedy International Airport (New York International Airport),2007,142132,12764522
+JFK,John F. Kennedy International Airport (New York International Airport),2008,137734,12618567
+JFK,John F. Kennedy International Airport (New York International Airport),2009,130794,12008158
+JFK,John F. Kennedy International Airport (New York International Airport),2010,119475,11547710
+JFK,John F. Kennedy International Airport (New York International Airport),2011,122663,11879623
+JFK,John F. Kennedy International Airport (New York International Airport),2012,118426,12088573
+JFK,John F. Kennedy International Airport (New York International Airport),2013,116868,11968144
+JFK,John F. Kennedy International Airport (New York International Airport),2014,120925,12466628
+JFK,John F. Kennedy International Airport (New York International Airport),2015,124048,13136651
+JFK,John F. Kennedy International Airport (New York International Airport),2016,126422,13494225
+BWI,Baltimore-Washington International Airport,2007,115987,10140405
+BWI,Baltimore-Washington International Airport,2008,111205,9903622
+BWI,Baltimore-Washington International Airport,2009,110481,10072969
+BWI,Baltimore-Washington International Airport,2010,113523,10576281
+BWI,Baltimore-Washington International Airport,2011,115816,10766216
+BWI,Baltimore-Washington International Airport,2012,112684,10827723
+BWI,Baltimore-Washington International Airport,2013,106168,10689524
+BWI,Baltimore-Washington International Airport,2014,98715,10591756
+BWI,Baltimore-Washington International Airport,2015,99409,11171078
+BWI,Baltimore-Washington International Airport,2016,102673,11744113

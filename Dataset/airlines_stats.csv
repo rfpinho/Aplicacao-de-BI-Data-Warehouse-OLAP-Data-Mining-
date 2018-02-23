@@ -1,0 +1,141 @@
+IATA_CODE,AIRLINE,YEAR,FLIGHTS,PASSENGERS
+UA,United Airlines Inc.,2007,479660,56399283
+UA,United Airlines Inc.,2008,440910,51661381
+UA,United Airlines Inc.,2009,372239,45570611
+UA,United Airlines Inc.,2010,339909,43306900
+UA,United Airlines Inc.,2011,307629,39528533
+UA,United Airlines Inc.,2012,526681,67533828
+UA,United Airlines Inc.,2013,503210,65113482
+UA,United Airlines Inc.,2014,489034,64668313
+UA,United Airlines Inc.,2015,511831,69178641
+UA,United Airlines Inc.,2016,541727,73780114
+AA,American Airlines Inc.,2007,618615,76551703
+AA,American Airlines Inc.,2008,589910,71538839
+AA,American Airlines Inc.,2009,544277,66142495
+AA,American Airlines Inc.,2010,533987,65711391
+AA,American Airlines Inc.,2011,526970,65233568
+AA,American Airlines Inc.,2012,517846,65009559
+AA,American Airlines Inc.,2013,530286,65052255
+AA,American Airlines Inc.,2014,531572,66384578
+AA,American Airlines Inc.,2015,717652,93280017
+AA,American Airlines Inc.,2016,906363,116626377
+US,US Airways Inc.,2007,519504,17663700
+US,US Airways Inc.,2008,474126,15575024
+US,US Airways Inc.,2009,427792,14966357
+US,US Airways Inc.,2010,426036,15169920
+US,US Airways Inc.,2011,431781,16065544
+US,US Airways Inc.,2012,463936,17383004
+US,US Airways Inc.,2013,425391,16058523
+US,US Airways Inc.,2014,372632,14695856
+US,US Airways Inc.,2015,280785,11460967
+US,US Airways Inc.,2016,261949,11223489
+F9,Frontier Airlines Inc.,2007,97561,9707093
+F9,Frontier Airlines Inc.,2008,95821,10070695
+F9,Frontier Airlines Inc.,2009,85550,9055719
+F9,Frontier Airlines Inc.,2010,80454,8878331
+F9,Frontier Airlines Inc.,2011,85021,10205560
+F9,Frontier Airlines Inc.,2012,78869,9927203
+F9,Frontier Airlines Inc.,2013,75033,9874033
+F9,Frontier Airlines Inc.,2014,85189,11328389
+F9,Frontier Airlines Inc.,2015,91047,12230934
+F9,Frontier Airlines Inc.,2016,94076,14105165
+B6,JetBlue Airways,2007,188164,20527593
+B6,JetBlue Airways,2008,193037,20478937
+B6,JetBlue Airways,2009,191859,20008492
+B6,JetBlue Airways,2010,197849,21129268
+B6,JetBlue Airways,2011,212853,22924092
+B6,JetBlue Airways,2012,227183,24870694
+B6,JetBlue Airways,2013,240476,25838408
+B6,JetBlue Airways,2014,244510,26448737
+B6,JetBlue Airways,2015,263563,28807882
+B6,JetBlue Airways,2016,279423,31222705
+OO,Skywest Airlines Inc.,2007,587525,20963904
+OO,Skywest Airlines Inc.,2008,557219,19453638
+OO,Skywest Airlines Inc.,2009,541241,20025879
+OO,Skywest Airlines Inc.,2010,589166,22645885
+OO,Skywest Airlines Inc.,2011,578137,22760188
+OO,Skywest Airlines Inc.,2012,608235,24869148
+OO,Skywest Airlines Inc.,2013,616956,25528545
+OO,Skywest Airlines Inc.,2014,599185,25994653
+OO,Skywest Airlines Inc.,2015,582981,27839666
+OO,Skywest Airlines Inc.,2016,602655,29101892
+AS,Alaska Airlines Inc.,2007,158474,15314138
+AS,Alaska Airlines Inc.,2008,150345,14846623
+AS,Alaska Airlines Inc.,2009,136473,14040666
+AS,Alaska Airlines Inc.,2010,136967,14880749
+AS,Alaska Airlines Inc.,2011,143211,15982045
+AS,Alaska Airlines Inc.,2012,146656,16747431
+AS,Alaska Airlines Inc.,2013,154459,17866817
+AS,Alaska Airlines Inc.,2014,159838,19153159
+AS,Alaska Airlines Inc.,2015,172369,21322117
+AS,Alaska Airlines Inc.,2016,177146,22615974
+NK,Spirit Airlines,2007,46506,5622850
+NK,Spirit Airlines,2008,47665,5500761
+NK,Spirit Airlines,2009,42583,4953800
+NK,Spirit Airlines,2010,45224,5523763
+NK,Spirit Airlines,2011,54992,6973505
+NK,Spirit Airlines,2012,68176,8928764
+NK,Spirit Airlines,2013,79772,10795712
+NK,Spirit Airlines,2014,91612,12560177
+NK,Spirit Airlines,2015,116043,15982391
+NK,Spirit Airlines,2016,136052,19183049
+WN,Southwest Airlines Co.,2007,1160714,101910809
+WN,Southwest Airlines Co.,2008,1191154,101920598
+WN,Southwest Airlines Co.,2009,1125111,101338228
+WN,Southwest Airlines Co.,2010,1114451,106227521
+WN,Southwest Airlines Co.,2011,1145163,110586815
+WN,Southwest Airlines Co.,2012,1132447,112234074
+WN,Southwest Airlines Co.,2013,1123988,115322785
+WN,Southwest Airlines Co.,2014,1161683,126694783
+WN,Southwest Airlines Co.,2015,1248559,142407578
+WN,Southwest Airlines Co.,2016,1286123,148820598
+DL,Delta Airlines Inc.,2007,472292,61494208
+DL,Delta Airlines Inc.,2008,448203,59276323
+DL,Delta Airlines Inc.,2009,425514,55627007
+DL,Delta Airlines Inc.,2010,721517,89951688
+DL,Delta Airlines Inc.,2011,724970,92710952
+DL,Delta Airlines Inc.,2012,725713,95438871
+DL,Delta Airlines Inc.,2013,754873,98372322
+DL,Delta Airlines Inc.,2014,796453,106220106
+DL,Delta Airlines Inc.,2015,874906,114904010
+DL,Delta Airlines Inc.,2016,920842,118997547
+EV,Atlantic Southeast Airlines,2007,278969,11373600
+EV,Atlantic Southeast Airlines,2008,277869,11916167
+EV,Atlantic Southeast Airlines,2009,295285,12815256
+EV,Atlantic Southeast Airlines,2010,314949,13586248
+EV,Atlantic Southeast Airlines,2011,321683,13935321
+EV,Atlantic Southeast Airlines,2012,731279,29652079
+EV,Atlantic Southeast Airlines,2013,734866,29890081
+EV,Atlantic Southeast Airlines,2014,662459,27968251
+EV,Atlantic Southeast Airlines,2015,565819,23988385
+EV,Atlantic Southeast Airlines,2016,486274,20571842
+HA,Hawaiian Airlines Inc.,2007,56406,6968527
+HA,Hawaiian Airlines Inc.,2008,64642,7729965
+HA,Hawaiian Airlines Inc.,2009,73217,8190812
+HA,Hawaiian Airlines Inc.,2010,68480,8222955
+HA,Hawaiian Airlines Inc.,2011,67405,8130146
+HA,Hawaiian Airlines Inc.,2012,74586,8661594
+HA,Hawaiian Airlines Inc.,2013,72663,8881478
+HA,Hawaiian Airlines Inc.,2014,74839,9092148
+HA,Hawaiian Airlines Inc.,2015,76374,9516510
+HA,Hawaiian Airlines Inc.,2016,76946,9792238
+MQ,American Eagle Airlines Inc.,2007,24844,3021061
+MQ,American Eagle Airlines Inc.,2008,29286,3889544
+MQ,American Eagle Airlines Inc.,2009,36735,4920186
+MQ,American Eagle Airlines Inc.,2010,41468,5609931
+MQ,American Eagle Airlines Inc.,2011,41946,5777255
+MQ,American Eagle Airlines Inc.,2012,46489,6617733
+MQ,American Eagle Airlines Inc.,2013,47541,7101917
+MQ,American Eagle Airlines Inc.,2014,53445,8050730
+MQ,American Eagle Airlines Inc.,2015,64634,9414584
+MQ,American Eagle Airlines Inc.,2016,77910,11074554
+VX,Virgin America,2007,15024,1325748
+VX,Virgin America,2008,24321,2537184
+VX,Virgin America,2009,33042,3643925
+VX,Virgin America,2010,34961,3826785
+VX,Virgin America,2011,42987,4836737
+VX,Virgin America,2012,54456,6019518
+VX,Virgin America,2013,56875,6170863
+VX,Virgin America,2014,57180,6345013
+VX,Virgin America,2015,61381,6840974
+VX,Virgin America,2016,68468,7858125
